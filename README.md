@@ -1,7 +1,7 @@
 This artifact is anonymized for double-anonymized peer review. Actionable payload text and identifying metadata have been removed or redacted. Full non-anonymized run records will be released in a DOI-linked archive upon acceptance.
 
 ```
-rust-safety-module-supplementary/
+supplementary/
 ├── README.md
 ├── supplementary/
 │   └── supplementary.pdf
