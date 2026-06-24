@@ -2,7 +2,7 @@ This artifact is anonymized for double-anonymized peer review. Actionable payloa
 
 ```
 structure/
-├── README.md
+├── main/README.md
 ├── supplementary/
 │   └── supplementary.pdf
 ├── data/
